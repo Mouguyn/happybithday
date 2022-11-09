@@ -33,12 +33,12 @@ var config = {
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "tối quá bật đèn lên nào",
-        play: "Thêm music nào",
-        bannar_coming: "Thêm tí màu sắc nào",
+        play: "Thêm music",
+        bannar_coming: "Thêm tí màu sắc ",
         balloons_flying: "Bóng bay hong?",
         cake_fadein: "Thêm bánh nào",
         light_candle: "Nến hong？",
-        wish_message: "Hẹp bi bợt đay",
+        wish_message: "Hẹp bi bít đay",
         story: "for u",
     }
 };
