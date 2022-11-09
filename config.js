@@ -6,10 +6,10 @@ var config = {
         "chúng ta chơi với nhau ",
         "Bao nhiêu năm rồi nhỉ",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "có thể là 1 năm 2 năm",  // 同上...
-        "Thậm chí là 3 năm",
+        "Có thể  là 3 năm",
         "Nhân dịp sinh nhật bạn",
         "Mình cũng không biết làm gì",
-        "Ngoài cái vô dụng này",
+        "Ngoài làm thứ này",
         "Để chúc mừng Sinh nhật Bạn",
         "Chúc bạn tuổi mới học giỏi",
         "luôn có nhiều niềm vui",
@@ -38,7 +38,7 @@ var config = {
         balloons_flying: "Bóng bay hong?",
         cake_fadein: "Thêm bánh nào",
         light_candle: "Nến hong？",
-        wish_message: "Hẹp bi bít đay",
+        wish_message: "Happy Birthday ",
         story: "for u",
     }
 };
