@@ -3,18 +3,22 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-        "chúng ta chơi với nhau ",
-        "Bao nhiêu năm rồi nhỉ",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
+        "xem nào ",
+        "Chúng ta chơi với nhau",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
+        "bao nhiêu năm rồi nhỉ?",
         "có thể là 1 năm 2 năm",  // 同上...
-        "Có thể  là 3 năm",
-        "Nhân dịp sinh nhật bạn",
-        "Mình cũng không biết làm gì",
-        "Ngoài làm thứ này",
-        "Để chúc mừng Sinh nhật Bạn",
-        "Chúc bạn tuổi mới học giỏi",
-        "luôn có nhiều niềm vui",
-        "Đạt thành tích Tốt nhất",
-        "Và đậu vào trường mình muốn nhé",
+        "thậm chí là 3 năm",
+        "không ngờ thời gian trôi qua",
+        "nhanh thật nhỉ?",
+        "Mình thì không mồm mép",
+        "hay ngồi văn thơ vở sách",
+        "nên làm thứ này tặng bạn",
+        "nhân ngày bạn tuổi 17",
+        "Chúc bạn bước sang tuổi mới ",
+        "có nhiều niềm vui ",
+        "luôn luôn khỏe mạnh",
+        "và bớt vô dụng,ăn hại đi",
+        "Luv u",
         "Yabai~~",
     ],
     /**
