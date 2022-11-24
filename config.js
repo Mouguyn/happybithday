@@ -13,7 +13,7 @@ var config = {
         "Mình thì không mồm mép",
         "hay ngồi văn thơ vở sách",
         "nên làm thứ này tặng bạn",
-        "nhân ngày bạn tuổi 17",
+        "nhân ngày bạn tuổi 18",
         "Chúc bạn bước sang tuổi mới ",
         "có nhiều niềm vui ",
         "luôn luôn khỏe mạnh",
