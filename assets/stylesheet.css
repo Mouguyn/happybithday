@@ -25,19 +25,19 @@ body {
 
 @-webkit-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #FFDA28;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #FFE435;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #FFDA42;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #FFE4875;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #FFD2819;
 	}
 }
 @-moz-keyframes peach_alive {
@@ -114,11 +114,11 @@ body {
 
 
 .bulb {
-	width: 50px;
-	height: 50px;
+	width: 56px;
+	height: 90px;
 	margin: auto;
 	background-repeat: no-repeat no-repeat;
-	background-position:center 0px;
+	background-position:center 10px;
 	background-size: 50px 50px;
 }
 
